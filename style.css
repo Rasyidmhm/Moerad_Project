@@ -25,6 +25,11 @@ header{
     background-color: var(--secondary-color);
 }
 
+.titles{
+    margin: 3rem;
+    padding: 3rem;
+}
+
 .header-img{
     justify-content: flex-start;
     background-color: transparent ;
